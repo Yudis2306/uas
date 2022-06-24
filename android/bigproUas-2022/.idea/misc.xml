@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/back.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/back2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/bg_btn.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/bg_desc.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/btn_login.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/ic_about.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/ic_profile.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/ic_scan_pic.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/drawable/ic_whatsapp.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_home.xml" value="0.21" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_result.xml" value="0.2" />
+        <entry key="..\:/Users/rianp/Documents/bigpro/android/app/src/main/res/layout/activity_upload.xml" value="0.22" />
+        <entry key="..\:/bigpro2/MiBird-main/app/src/main/res/drawable/back.xml" value="0.23692307692307693" />
+        <entry key="..\:/bigpro2/MiBird-main/app/src/main/res/drawable/bg_desc.xml" value="0.23692307692307693" />
+        <entry key="..\:/bigpro2/MiBird-main/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/bigpro2/MiBird-main/app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="..\:/bigpro2/MiBird-main/app/src/main/res/layout/activity_upload.xml" value="0.22447916666666667" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/back.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/back2.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/bg_btn.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/bg_btn_br.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/bg_desc.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/ic_scan_pic.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/drawable/kotak.xml" value="0.20555555555555555" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/bigpro2/android/app/src/main/res/layout/activity_upload.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
